@@ -1,21 +1,13 @@
-![](media/image1.png){width="8.49720363079615in"
-height="10.478021653543307in"}![](media/image2.png){width="2.1724048556430446in"
-height="0.9993055555555556in"}**\
-**
-
-Version_1.xx\
-Revision_D1.xx\
-March 17, 2022
+---
+title: "TCG Storage Feature Set: <template>"
+type: SPECIFICATION
 
 Contact: <admin@trustedcomputinggroup.org>
+...
 
-DRAFT
+---
 
-**TCG Storage Feature Set: \<template\>**
-
-**SPECIFICATION**
-
-# DISCLAIMERS, NOTICES, AND LICENSE TERMS {#disclaimers-notices-and-license-terms .TCG-Heading-1-with-No-Number}
+# Disclaimers, Notices, and License Terms
 
 THIS SPECIFICATION IS PROVIDED "AS IS" WITH NO WARRANTIES WHATSOEVER,
 INCLUDING ANY WARRANTY OF MERCHANTABILITY, NONINFRINGEMENT, FITNESS FOR
@@ -46,7 +38,7 @@ information on specification licensing through membership agreements.
 Any marks and brands contained herein are the property of their
 respective owners.
 
-# CHANGE HISTORY  {#change-history .unnumbered}
+# CHANGE HISTORY 
 
 +-------------+------------+-------------------------------------------+
 | *           | **DATE**   | **DESCRIPTION**                           |
@@ -65,7 +57,7 @@ respective owners.
 
 : Table 1 - SP Table Legend
 
-# CONTENTS {#contents .TCG-Heading-1-with-No-Number}
+# CONTENTS 
 
 [CHANGE HISTORY [2](#change-history)](#change-history)
 
@@ -213,13 +205,13 @@ respective owners.
 
 [4.6.2.1 Xxx [25](#xxx-2)](#xxx-2)
 
-# List of Tables {#list-of-tables .TOC-Heading .unnumbered}
+# List of Tables 
 
 [Table 1 - SP Table Legend [5](#_Toc98327192)](#_Toc98327192)
 
 [Table 2 - Sample Table [10](#_Toc98327193)](#_Toc98327193)
 
-# List of Figures {#list-of-figures .TOC-Heading .unnumbered}
+# List of Figures 
 
 [Figure 1 - Sample Figure [11](#_Toc98328839)](#_Toc98328839)
 
